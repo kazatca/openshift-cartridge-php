@@ -6,7 +6,7 @@ Description: PHP is a general-purpose server-side scripting language originally 
   for Web development to produce dynamic Web pages. Popular development frameworks
   include CakePHP, Zend, Symfony, and Code Igniter.
 Version: '5.4'
-Source-Url: "git@github.com:kazatca/openshift-cartridge-php.git"
+Source-Url: git@github.com:kazatca/openshift-cartridge-php.git
 Provides:
 - php-5.4
 - php
